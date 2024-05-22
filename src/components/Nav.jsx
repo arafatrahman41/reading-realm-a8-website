@@ -4,18 +4,18 @@ const Nav = () => {
   const links = (
     <>
       <li>
-        <NavLink to='/' className={({isActive}) => isActive ? 'border border-[#23BE0A] text-[#23BE0A] bg-transparent' : ''}>Home</NavLink>
+        <NavLink to='/' className={({isActive}) => isActive ? 'border border-[#23BE0A] text-[#23BE0A] bg-white' : ''}>Home</NavLink>
       </li>
       <li>
-        <NavLink to='/list' className={({isActive}) => isActive ? 'border border-[#23BE0A] text-[#23BE0A] bg-transparent' : ''}>Listed Books</NavLink>
+        <NavLink to='/list' className={({isActive}) => isActive ? 'border border-[#23BE0A] text-[#23BE0A] bg-white' : ''}>Listed Books</NavLink>
       </li>
       <li>
-        <NavLink to='/reading' className={({isActive}) => isActive ? 'border border-[#23BE0A] text-[#23BE0A] bg-transparent' : ''}>Pages to Read</NavLink>
+        <NavLink to='/reading' className={({isActive}) => isActive ? 'border border-[#23BE0A] text-[#23BE0A] bg-white' : ''}>Pages to Read</NavLink>
       </li>
     </>
   );
   return (
-    <div className="navbar bg-base-100 container mx-auto px-4 md:px-8">
+    <div className="navbar bg-base-100 container mx-auto pt-5 lg:pt-10 px-4 md:px-8">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
