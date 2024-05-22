@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Book = ({ book }) => {
   const { book_name, author, image, category, tags, rating, id } = book;
   return (
-    <Link to={`/blog/${id}`} className="p-6 rounded-lg border-2">
+    <Link to={`/${id}`} className="p-6 rounded-lg border-2">
       <div className="bg-base-200 rounded-lg p-4">
         <img
           src={image}
