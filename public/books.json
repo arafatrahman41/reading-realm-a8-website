@@ -1,0 +1,121 @@
+[
+    {
+      "id": 1,
+      "book_name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/G7ZhNCq/great-gatsby.png",
+      "review": "The Great Gatsby is a classic novel that explores themes of wealth, society, and the American Dream in 1920s America. Through the tragic story of Jay Gatsby and his unrequited love for Daisy Buchanan, Fitzgerald critiques the moral decay of society and the empty pursuit of pleasure.",
+      "total_pages": 180,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Classic", "American Literature", "1920s"],
+      "publisher": "Charles Scribner's Sons",
+      "year_of_publishing": 1925
+    },
+    {
+      "id": 2,
+      "book_name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/MSp76Xk/moking-bird.png",
+      "review": "To Kill a Mockingbird is a poignant tale of racial injustice and childhood innocence set in the Deep South. Through the eyes of young Scout Finch, Harper Lee explores the complexities of moral growth and the ingrained prejudices of society, highlighting the enduring impact of empathy and understanding.",
+      "total_pages": 281,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Classic", "Civil Rights", "Coming of Age"],
+      "publisher": "J.B. Lippincott & Co.",
+      "year_of_publishing": 1960
+    },
+    {
+      "id": 3,
+      "book_name": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/KyYdMxv/1984.png",
+      "review": "1984 is a dystopian novel that delves into themes of totalitarianism and surveillance. Orwell's chilling depiction of a society under constant watch by Big Brother serves as a powerful warning against the dangers of oppressive governments and the loss of individual freedoms.",
+      "total_pages": 328,
+      "rating": 4.7,
+      "category": "Science Fiction",
+      "tags": ["Dystopia", "Political Fiction", "Classic"],
+      "publisher": "Secker & Warburg",
+      "year_of_publishing": 1949
+    },
+    {
+      "id": 9,
+      "book_name": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "image": "https://i.ibb.co/DMZXnX0/jane-eyre.png",
+      "review": "Jane Eyre is a gothic novel that blends romance and social criticism. Brontë's story of the resilient and independent Jane Eyre, who overcomes hardship and heartache, explores themes of morality, love, and the search for a true sense of self.",
+      "total_pages": 500,
+      "rating": 4.6,
+      "category": "Romance",
+      "tags": ["Classic", "Gothic", "British Literature"],
+      "publisher": "Smith, Elder & Co.",
+      "year_of_publishing": 1847
+    },
+    {
+      "id": 5,
+      "book_name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/F53spGv/catcher-ray.png",
+      "review": "The Catcher in the Rye captures the complexities of teenage angst and rebellion through the eyes of Holden Caulfield. Salinger's novel delves into themes of alienation, identity, and the struggles of growing up in a world that often seems hypocritical and phony.",
+      "total_pages": 214,
+      "rating": 4.0,
+      "category": "Fiction",
+      "tags": ["Classic", "Coming of Age", "American Literature"],
+      "publisher": "Little, Brown and Company",
+      "year_of_publishing": 1951
+    },
+    {
+      "id": 6,
+      "book_name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/Km649bc/hobbit.png",
+      "review": "The Hobbit is an epic fantasy adventure that serves as a prelude to The Lord of the Rings. Tolkien's richly imagined world and the journey of Bilbo Baggins from a quiet hobbit to a resourceful hero offer a timeless tale of courage, friendship, and the quest for home.",
+      "total_pages": 310,
+      "rating": 4.6,
+      "category": "Fantasy",
+      "tags": ["Fantasy", "Adventure", "Classic"],
+      "publisher": "George Allen & Unwin",
+      "year_of_publishing": 1937
+    },
+    {
+      "id": 7,
+      "book_name": "Moby Dick",
+      "author": "Herman Melville",
+      "image": "https://i.ibb.co/W6Dg3D3/moby-dick.png",
+      "review": "Moby Dick is a profound exploration of obsession and the human condition. Through the monomaniacal pursuit of the white whale by Captain Ahab, Melville examines themes of vengeance, the power of nature, and the existential struggles of mankind.",
+      "total_pages": 635,
+      "rating": 4.1,
+      "category": "Fiction",
+      "tags": ["Classic", "Adventure", "American Literature"],
+      "publisher": "Harper & Brothers",
+      "year_of_publishing": 1851
+    },
+    {
+      "id": 8,
+      "book_name": "Brave New World",
+      "author": "Aldous Huxley",
+      "image": "https://i.ibb.co/tpr7sCP/brave-new-world.png",
+      "review": "Brave New World is a provocative novel that imagines a future society driven by technology and control. Huxley's vision of a world where happiness is manufactured and individuality suppressed serves as a compelling critique of consumerism, dehumanization, and the loss of personal freedom.",
+      "total_pages": 268,
+      "rating": 4.3,
+      "category": "Science Fiction",
+      "tags": ["Dystopia", "Classic", "Philosophical Fiction"],
+      "publisher": "Chatto & Windus",
+      "year_of_publishing": 1932
+    },
+    {
+      "id": 9,
+      "book_name": "Why Do You Hate Money?",
+      "author": "Mindy Crary",
+      "image": "https://i.ibb.co/qkV4fQ2/hate-money.png",
+      "review": "Why Do You Hate Money? offers a fresh perspective on personal finance, aiming to change the way we think about money. Mindy Crary's book combines practical advice with psychological insights to help readers develop a healthier relationship with their finances and make more informed decisions.",
+      "total_pages": 220,
+      "rating": 4.5,
+      "category": "Personal Finance",
+      "tags": ["Finance", "Self-Help", "Psychology"],
+      "publisher": "Your Finances Simplified",
+      "year_of_publishing": 2016
+    }
+  ]
+  
+  
