@@ -25,7 +25,7 @@ const BookDetails = () => {
   } = singleBook;
 
   const handleRead = (singleBook) =>{
-    if(read){
+    if(read && !wishlist){
       saveBooks(singleBook);
     }else{
       setRead(true);
