@@ -10,7 +10,7 @@ const ReadBooks = () => {
     }, [])
   return (
     <div>
-      <ul className="mt-8 pb-24">
+      <ul className="mt-8 space-y-6 pb-24">
         {books.map((book) => (
           <ReadBook key={book.id} book={book}></ReadBook>
         ))}

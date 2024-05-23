@@ -14,7 +14,7 @@ const Book = ({ book }) => {
         />
       </div>
       <div className="mt-6 mb-2 space-y-4">
-        <span className="block text-sm font-medium  space-x-3">
+        <span className="text-sm font-medium flex items-center gap-3 flex-wrap">
           {
             tags.map(tag => <a key={tag} className="bg-[#23BE0A0D] px-4 rounded-3xl py-2 text-[#23BE0A]">
                 {tag}
